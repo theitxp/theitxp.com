@@ -3,7 +3,7 @@ and the professionals that working to drive business initiatives using their tec
 developer or a systems administrator. If your using "The CLOUD" or hosting on-premise, we're going to provide you 
 with some nuggets of insight on what happens behind the curtain of an organization's IT department.</p>
 
-Check us out on <a href="https://twitter.com/theitxp" target=_blank>Twitter! @TheITXP </a>
+Check us out on <a href="https://twitter.com/theitxp">Twitter! @TheITXP </a>
 
 Add us to your favorite podcast player!  <a href='http://feeds.soundcloud.com/users/soundcloud:users:134569916/sounds.rss'>RSS Feed</a>
 
