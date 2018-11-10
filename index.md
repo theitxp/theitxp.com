@@ -3,7 +3,7 @@
 What's up?! This is the home of the The IT XP, a show dedicated to the world of Information Technology
 and the professionals that working to drive business initiatives using their technology skills. Whether you are a 
 developer or a systems administrator. If your using "The CLOUD" or hosting on-premise, we're going to provide you 
-with some nuggets of insight on what happens behind the curtain of an organization's IT department.</p>
+with some nuggets of insight on what happens behind the curtain of an organization's IT department.
 
 Check us out on <a href="https://twitter.com/theitxp">Twitter! @TheITXP </a>
 
@@ -24,4 +24,6 @@ Subscribe:<br>
 <a href="https://soundcloud.com/theitxp/episode-411-statements-of-work">Episode 4.11 - Statements of Work</a>
 
 <a href="https://soundcloud.com/theitxp/episode-410-high-severity-incidents">Episode 4.10 - High Severity Incidents</a>
+
+<a href="https://soundcloud.com/theitxp/episode-49-getting-promoted">Episode 4.09 - Getting Promoted</a>
          
