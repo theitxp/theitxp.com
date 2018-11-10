@@ -19,5 +19,9 @@ Subscribe:<br>
 
 # Episodes
 
-Episode 4.12 - So You Want to Work in IT?
-<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?rl=https%3A//api.soundcloud.com/tracks/527243502&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+<a href="https://soundcloud.com/theitxp/ep4-12">Episode 4.12 - So You Want to Work in IT?</a>
+
+<a href="https://soundcloud.com/theitxp/episode-411-statements-of-work">Episode 4.11 - Statements of Work</a>
+
+<a href="https://soundcloud.com/theitxp/episode-410-high-severity-incidents>Episode 4.10 - High Severity Incidents</a>
+         
