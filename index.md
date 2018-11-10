@@ -23,5 +23,5 @@ Subscribe:<br>
 
 <a href="https://soundcloud.com/theitxp/episode-411-statements-of-work">Episode 4.11 - Statements of Work</a>
 
-<a href="https://soundcloud.com/theitxp/episode-410-high-severity-incidents>Episode 4.10 - High Severity Incidents</a>
+<a href="https://soundcloud.com/theitxp/episode-410-high-severity-incidents">Episode 4.10 - High Severity Incidents</a>
          
