@@ -1,3 +1,5 @@
+# Background
+
 What's up?! This is the home of the The IT XP, a show dedicated to the world of Information Technology
 and the professionals that working to drive business initiatives using their technology skills. Whether you are a 
 developer or a systems administrator. If your using "The CLOUD" or hosting on-premise, we're going to provide you 
