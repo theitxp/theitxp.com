@@ -27,3 +27,4 @@ Subscribe:<br>
 
 <a href="https://soundcloud.com/theitxp/episode-49-getting-promoted">Episode 4.09 - Getting Promoted</a>
          
+<a href="https://soundcloud.com/theitxp/episode-48-public-speaking-skills">Episode 4.08 - Effective Communication</a>
