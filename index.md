@@ -9,7 +9,7 @@ Check us out on <a href="https://twitter.com/theitxp">Twitter! @TheITXP </a>
 
 Add us to your favorite podcast player!  <a href='http://feeds.soundcloud.com/users/soundcloud:users:134569916/sounds.rss'>RSS Feed</a>
 
-Subscribe:<br>
+### Subscribe:<br>
 
 <a href="http://www.soundcloud.com/theitxp">SoundCloud</a>
 
