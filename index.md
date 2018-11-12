@@ -29,3 +29,21 @@ Subscribe:<br>
 <a href="https://soundcloud.com/theitxp/episode-49-getting-promoted">Episode 4.09 - Getting Promoted</a>
          
 <a href="https://soundcloud.com/theitxp/episode-48-public-speaking-skills">Episode 4.08 - Effective Communication</a>
+
+<a href="https://soundcloud.com/theitxp/episode-47-making-work-visible-book-review-pt-2">Episode 4.07 - Making Work Visible Book Review Part 2</a>
+
+<a href="https://soundcloud.com/theitxp/episode-4-6">Episode 4.06 - Making Work Visible Book Review Part 1</a>
+
+<a href="https://soundcloud.com/theitxp/episode-45-ready-player-one-special-edition">Episode 4.05 - Ready Player One Special Edition</a>
+
+<a href="https://soundcloud.com/theitxp/episode-44-worklife-balance-or-the-lack-thereof">Episode 4.04 - Work/Life Balance of the Lack Thereof</a>
+
+<a href="https://soundcloud.com/theitxp/episode-43-manging-your-time">Episode 4.03 - Managing Your Time</a>
+
+<a href="https://soundcloud.com/theitxp/theitxp-ep4-2">Episode 4.02 - Failures DO HAPPEN and how to deal with them</a>
+
+<a href="https://soundcloud.com/theitxp/ep-4-1">Episode 4.01 - A Tale of Opportunity</a>
+
+<a href="https://soundcloud.com/theitxp/episode-4-0">Episode 4.0 - A Reintroduction and Hard Work</a>
+
+
