@@ -1,9 +1,20 @@
-# Background
+# Who We Are
 
 What's up?! This is the home of the The IT XP, a show dedicated to the world of Information Technology
-and the professionals that working to drive business initiatives using their technology skills. Whether you are a 
-developer or a systems administrator. If your using "The CLOUD" or hosting on-premise, we're going to provide you 
+and the professionals working to drive business initiatives using their technology skills. Whether you are a 
+developer or a systems administrator. If your using "The Clout" or hosting on-premises, we're going to provide you 
 with some nuggets of insight on what happens behind the curtain of an organization's IT department.
+
+The term Information Technology is an umbrella term covering a wide array of technologies and job functions. You may not be working in
+a formal IT department, but when we pull back the layers, most in your organization will call you IT; obviously this isn't a blanket 
+statement, but one that identifies technology professionals outside of true technology firms. Let's be realistic, even the large tech
+firms have an IT department. Hell, I bet your mom thinks you just fix computers. Meanwhile you're probably writing some of the best code
+on Github!
+
+Whether you are a helpdesk agent, developer, project manager, cybersec analyst, dba or any other title that puts you in the umbrella
+of Information Technology, then this show is for you.
+
+We pull back the curtain and expose some of the inner workings of what it's like to work in Information Technology.
 
 Check us out on <a href="https://twitter.com/theitxp">Twitter! @TheITXP </a>
 
