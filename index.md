@@ -2,7 +2,7 @@
 
 What's up?! This is the home of the The IT XP, a show dedicated to the world of Information Technology
 and the professionals working to drive business initiatives using their technology skills. Whether you are a 
-developer or a systems administrator. If your using "The Clout" or hosting on-premises, we're going to provide you 
+developer or a systems administrator, if your using "The Cloud" or hosting on-premises, we're going to provide you 
 with some nuggets of insight on what happens behind the curtain of an organization's IT department.
 
 The term Information Technology is an umbrella term covering a wide array of technologies and job functions. You may not be working in
