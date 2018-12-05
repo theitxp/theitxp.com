@@ -24,7 +24,7 @@ Add us to your favorite podcast player!  <a href='http://feeds.soundcloud.com/us
 
 <iframe allowtransparency="true" scrolling="no" frameborder="no" src="https://w.soundcloud.com/icon/?url=http%3A%2F%2Fsoundcloud.com%2Ftheitxp&color=white_orange&size=64" style="width: 64px; height: 64px;"></iframe>
 
-<a href="https://www.stitcher.com/s?fid=69160&refid=stpr"><img src="https://secureimg.stitcher.com/promo.assets/badges/Stitcher_Listen_Badge_Color_Dark_BG.png" width="125" height="167" alt="Listen to Stitcher"></a>
+<a href="https://www.stitcher.com/s?fid=69160&refid=stpr"><img src="https://secureimg.stitcher.com/promo.assets/badges/Stitcher_Listen_Badge_Color_Dark_BG.png" width="558" height="167" alt="Listen to Stitcher"></a>
 
 <a href="https://itunes.apple.com/us/podcast/the-it-xp/id1330172385?mt=2&app=podcast" style="display:inline-block;overflow:hidden;background:url(https://linkmaker.itunes.apple.com/en-us/badge-lrg.svg?releaseDate=2018-12-04T00:00:00Z&kind=podcast&bubble=podcasts) no-repeat;width:133px;height:34px;"></a>
 
