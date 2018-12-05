@@ -22,11 +22,11 @@ Add us to your favorite podcast player!  <a href='http://feeds.soundcloud.com/us
 
 ### Subscribe:<br>
 
-<a href="http://www.soundcloud.com/theitxp">SoundCloud</a>
+<iframe allowtransparency="true" scrolling="no" frameborder="no" src="https://w.soundcloud.com/icon/?url=http%3A%2F%2Fsoundcloud.com%2Ftheitxp&color=orange_white&size=32" style="width: 32px; height: 32px;"></iframe>
 
-<a href="https://www.stitcher.com/s?fid=69160&refid=stpr">Stitcher Radio</a>
+<iframe scrolling="no" frameborder="0" style="width:500px;height:180px;border:0;overflow:hidden;" width="500" height="180" src="https://app.stitcher.com/splayer/f/69160/57543661?el=0&refid=stpr"></iframe>
 
-<a href="https://t.co/5J3V1agATc">iTunes Podcast</a>
+<div id='ibb-widget-root-1330172385'></div><script>(function(t,e,i,d){var o=t.getElementById(i),n=t.createElement(e);o.style.height=250;o.style.width=300;o.style.display='inline-block';n.id='ibb-widget',n.setAttribute('src',('https:'===t.location.protocol?'https://':'http://')+d),n.setAttribute('width','300'),n.setAttribute('height','250'),n.setAttribute('frameborder','0'),n.setAttribute('scrolling','no'),o.appendChild(n)})(document,'iframe','ibb-widget-root-1330172385',"banners.itunes.apple.com/banner.html?partnerId=&aId=&bt=catalog&t=catalog_white&id=1330172385&c=us&l=en-US&w=300&h=250&store=podcast");</script>
 
 <a href='https://playmusic.app.goo.gl/?ibi=com.google.PlayMusic&amp;isi=691797987&amp;ius=googleplaymusic&amp;apn=com.google.android.music&amp;link=https://play.google.com/music/m/Iiutjucfg45ityt25ixfhunqrcm?t%3DThe_IT_XP%26pcampaignid%3DMKT-na-all-co-pr-mu-pod-16' rel='nofollow'><img width='125px' alt='Listen on Google Play Music' src='https://play.google.com/intl/en_us/badges-music/images/badges/en_badge_web_music.png'/></a>
 
