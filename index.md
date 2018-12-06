@@ -33,6 +33,8 @@ Add us to your favorite podcast player!  <a href='http://feeds.soundcloud.com/us
 # Episodes
 ## Season 4
 
+<a href="https://soundcloud.com/theitxp/episode-413-automate-automate-automate">Episode 4.13 - Automate, Automate, Automate!</a>
+
 <a href="https://soundcloud.com/theitxp/ep4-12">Episode 4.12 - So You Want to Work in IT?</a>
 
 <a href="https://soundcloud.com/theitxp/episode-411-statements-of-work">Episode 4.11 - Statements of Work</a>
