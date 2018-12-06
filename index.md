@@ -1,6 +1,6 @@
 # Who We Are
 
-![My Logo](/images/theitxp_twitter.png)
+![My Logo](/assets/theitxp_twitter.png)
 
 What's up?! This is the home of the The IT XP, a show dedicated to the world of Information Technology
 and the professionals working to drive business initiatives using their technology skills. Whether you are a 
