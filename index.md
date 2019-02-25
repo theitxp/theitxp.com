@@ -36,7 +36,7 @@ Add us to your favorite podcast player!  <a href='http://feeds.soundcloud.com/us
 
 ## Season 5
 
-<a href="https://soundcloud.com/theitxp/episode-54-organizational-change-the-aftermath">Episode 5.4 - Organizational Change - The Aftermath</a>G
+<a href="https://soundcloud.com/theitxp/episode-54-organizational-change-the-aftermath">Episode 5.4 - Organizational Change - The Aftermath</a>
 
 <a href="https://soundcloud.com/theitxp/episode-53-organizational-change">Episode 5.3 - Organizational Change</a>
 
