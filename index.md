@@ -36,6 +36,8 @@ Add us to your favorite podcast player!  <a href='http://feeds.soundcloud.com/us
 
 ## Season 5
 
+<a href="http://traffic.libsyn.com/theitxp/Episode_5.6_-_Technical-Desktop_Support.mp3"> Episode 5.6 - Technical/Desktop Support</a>
+
 <a href="http://traffic.libsyn.com/theitxp/Episode_5.5_-_The_Helpdesk.mp3"> Episode 5.5 - The Helpdesk</a>
 
 <a href="https://soundcloud.com/theitxp/episode-54-organizational-change-the-aftermath">Episode 5.4 - Organizational Change - The Aftermath</a>
