@@ -36,17 +36,21 @@ Add us to your favorite podcast player!  <a href='http://feeds.soundcloud.com/us
 
 ## Season 5
 
+<a href="http://traffic.libsyn.com/theitxp/Episode5-8-NetEng.m4a"> Episode 5.7 - Network Engineering</a>
+
+<a href="http://traffic.libsyn.com/theitxp/Episode_5.7_-_SysAdmin.mp3"> Episode 5.7 - SysAdmin</a>
+
 <a href="http://traffic.libsyn.com/theitxp/Episode_5.6_-_Technical-Desktop_Support.mp3"> Episode 5.6 - Technical/Desktop Support</a>
 
 <a href="http://traffic.libsyn.com/theitxp/Episode_5.5_-_The_Helpdesk.mp3"> Episode 5.5 - The Helpdesk</a>
 
-<a href="https://soundcloud.com/theitxp/episode-54-organizational-change-the-aftermath">Episode 5.4 - Organizational Change - The Aftermath</a>
+<a href="http://traffic.libsyn.com/theitxp/579695448-theitxp-episode-54-organizational-change-the-aftermath.mp3">Episode 5.4 - Organizational Change - The Aftermath</a>
 
-<a href="https://soundcloud.com/theitxp/episode-53-organizational-change">Episode 5.3 - Organizational Change</a>
+<a href="http://traffic.libsyn.com/theitxp/575286831-theitxp-episode-53-organizational-change.mp3">Episode 5.3 - Organizational Change</a>
 
-<a href="https://soundcloud.com/theitxp/episode-52-reddit-questions-answered">Episode 5.2 - Reddit Questions Answered</a>
+<a href="http://traffic.libsyn.com/theitxp/568114629-theitxp-episode-52-reddit-questions-answered.mp3">Episode 5.2 - Reddit Questions Answered</a>
 
-<a href="https://soundcloud.com/theitxp/episode-51-conference-call-etiquette">Episode 5.1 - Conference Call Etiquette</a>
+<a href="http://traffic.libsyn.com/theitxp/563836857-theitxp-episode-51-conference-call-etiquette.mp3">Episode 5.1 - Conference Call Etiquette</a>
 
 <a href="https://soundcloud.com/theitxp/episode-50-season-premier">Episode 5.0 - Season Premier</a>
 
