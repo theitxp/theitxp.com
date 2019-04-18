@@ -36,6 +36,8 @@ Add us to your favorite podcast player!  <a href='http://feeds.soundcloud.com/us
 
 ## Season 5
 
+<a href="http://traffic.libsyn.com/theitxp/Episode_5.9_-_Cloud_Ops_Engineering.mp3"> Episode 5.9 - Cloud Ops and Engineering </a>
+
 <a href="http://traffic.libsyn.com/theitxp/Episode5-8-NetEng.m4a"> Episode 5.8 - Network Engineering</a>
 
 <a href="http://traffic.libsyn.com/theitxp/Episode_5.7_-_SysAdmin.mp3"> Episode 5.7 - SysAdmin</a>
