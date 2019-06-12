@@ -36,6 +36,8 @@ Add us to your favorite podcast player!  <a href='http://feeds.soundcloud.com/us
 
 ## Season 5
 
+<a href="http://traffic.libsyn.com/theitxp/Episode_5.12_-_REV2_Data_Science_Conference_Day_1.mp3"> Episode 5.12 - REV2 Data Science Conference Day 1</a>
+
 <a href="http://traffic.libsyn.com/theitxp/Episode_5.11_-_IT_Professional_Ramblings.mp3"> Episode 5.11 - IT Professional Ramblings</a>
 
 <a href="http://theitxp.libsyn.com/episode-510-database-admin-and-engineering"> Episode 5.10 - Database Admin and Engineering </a>
