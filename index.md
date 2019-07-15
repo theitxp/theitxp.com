@@ -62,40 +62,40 @@ Add us to your favorite podcast player!  <a href='http://feeds.soundcloud.com/us
 
 <a href="http://traffic.libsyn.com/theitxp/563836857-theitxp-episode-51-conference-call-etiquette.mp3">Episode 5.1 - Conference Call Etiquette</a>
 
-<a href="https://soundcloud.com/theitxp/episode-50-season-premier">Episode 5.0 - Season Premier</a>
+<a href="http://traffic.libsyn.com/theitxp/560650932-theitxp-episode-50-season-premier.mp3">Episode 5.0 - Season Premier</a>
 
 ## Season 4
 
-<a href="https://soundcloud.com/theitxp/episode-415-the-season-4-finale">Episode 4.15 - The Season 4 Finale!</a>
+<a href="http://traffic.libsyn.com/theitxp/552353676-theitxp-episode-415-the-season-4-finale.mp3">Episode 4.15 - The Season 4 Finale!</a>
 
-<a href="https://soundcloud.com/theitxp/episode-414-the-performance-review-process">Episode 4.14 - The Performance Review Process</a>
+<a href="http://traffic.libsyn.com/theitxp/550258995-theitxp-episode-414-the-performance-review-process.mp3">Episode 4.14 - The Performance Review Process</a>
 
-<a href="https://soundcloud.com/theitxp/episode-413-automate-automate-automate">Episode 4.13 - Automate, Automate, Automate!</a>
+<a href="http://traffic.libsyn.com/theitxp/540604368-theitxp-episode-413-automate-automate-automate.mp3">Episode 4.13 - Automate, Automate, Automate!</a>
 
-<a href="https://soundcloud.com/theitxp/ep4-12">Episode 4.12 - So You Want to Work in IT?</a>
+<a href="http://traffic.libsyn.com/theitxp/527243502-theitxp-ep4-12.mp3">Episode 4.12 - So You Want to Work in IT?</a>
 
-<a href="https://soundcloud.com/theitxp/episode-411-statements-of-work">Episode 4.11 - Statements of Work</a>
+<a href="http://traffic.libsyn.com/theitxp/520264689-theitxp-episode-411-statements-of-work.mp3">Episode 4.11 - Statements of Work</a>
 
-<a href="https://soundcloud.com/theitxp/episode-410-high-severity-incidents">Episode 4.10 - High Severity Incidents</a>
+<a href="http://traffic.libsyn.com/theitxp/515584713-theitxp-episode-410-high-severity-incidents.mp3">Episode 4.10 - High Severity Incidents</a>
 
-<a href="https://soundcloud.com/theitxp/episode-49-getting-promoted">Episode 4.09 - Getting Promoted</a>
+<a href="http://traffic.libsyn.com/theitxp/500241054-theitxp-episode-49-getting-promoted.mp3">Episode 4.09 - Getting Promoted</a>
          
-<a href="https://soundcloud.com/theitxp/episode-48-public-speaking-skills">Episode 4.08 - Effective Communication</a>
+<a href="http://traffic.libsyn.com/theitxp/496264617-theitxp-episode-48-public-speaking-skills.mp3">Episode 4.08 - Effective Communication</a>
 
-<a href="https://soundcloud.com/theitxp/episode-47-making-work-visible-book-review-pt-2">Episode 4.07 - Making Work Visible Book Review Part 2</a>
+<a href="http://traffic.libsyn.com/theitxp/443942976-theitxp-episode-47-making-work-visible-book-review-pt-2.mp3">Episode 4.07 - Making Work Visible Book Review Part 2</a>
 
-<a href="https://soundcloud.com/theitxp/episode-4-6">Episode 4.06 - Making Work Visible Book Review Part 1</a>
+<a href="http://traffic.libsyn.com/theitxp/432084561-theitxp-episode-4-6.mp3">Episode 4.06 - Making Work Visible Book Review Part 1</a>
 
-<a href="https://soundcloud.com/theitxp/episode-45-ready-player-one-special-edition">Episode 4.05 - Ready Player One Special Edition</a>
+<a href="http://traffic.libsyn.com/theitxp/422469654-theitxp-episode-45-ready-player-one-special-edition.mp3">Episode 4.05 - Ready Player One Special Edition</a>
 
-<a href="https://soundcloud.com/theitxp/episode-44-worklife-balance-or-the-lack-thereof">Episode 4.04 - Work/Life Balance of the Lack Thereof</a>
+<a href="http://traffic.libsyn.com/theitxp/411547719-theitxp-episode-44-worklife-balance-or-the-lack-thereof.mp3">Episode 4.04 - Work/Life Balance of the Lack Thereof</a>
 
-<a href="https://soundcloud.com/theitxp/episode-43-manging-your-time">Episode 4.03 - Managing Your Time</a>
+<a href="http://traffic.libsyn.com/theitxp/406269276-theitxp-episode-43-manging-your-time.mp3">Episode 4.03 - Managing Your Time</a>
 
-<a href="https://soundcloud.com/theitxp/theitxp-ep4-2">Episode 4.02 - Failures DO HAPPEN and how to deal with them</a>
+<a href="http://traffic.libsyn.com/theitxp/393927864-theitxp-theitxp-ep4-2.mp3">Episode 4.02 - Failures DO HAPPEN and how to deal with them</a>
 
-<a href="https://soundcloud.com/theitxp/ep-4-1">Episode 4.01 - A Tale of Opportunity</a>
+<a href="http://traffic.libsyn.com/theitxp/386463593-theitxp-ep-4-1.mp3">Episode 4.01 - A Tale of Opportunity</a>
 
-<a href="https://soundcloud.com/theitxp/episode-4-0">Episode 4.0 - A Reintroduction and Hard Work</a>
+<a href="http://traffic.libsyn.com/theitxp/382308353-theitxp-episode-4-0.mp3">Episode 4.0 - A Reintroduction and Hard Work</a>
 
 
