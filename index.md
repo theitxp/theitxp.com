@@ -36,6 +36,8 @@ Add us to your favorite podcast player!  <a href='http://feeds.soundcloud.com/us
 
 ## Season 5
 
+<a href="http://traffic.libsyn.com/theitxp/EP5-14-MentalHealth.m4a">Episode 5.14 - Mental Health in IT</a>
+
 <a href="http://traffic.libsyn.com/theitxp/Episode_5.13_-_REV2_Data_Science_Conference_Day_2.mp3"> Episode 5.13 - REV2 Data Science Conference Day 2</a>
 
 <a href="http://traffic.libsyn.com/theitxp/Episode_5.12_-_REV2_Data_Science_Conference_Day_1.mp3"> Episode 5.12 - REV2 Data Science Conference Day 1</a>
