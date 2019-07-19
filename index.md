@@ -20,17 +20,12 @@ We pull back the curtain and expose some of the inner workings of what it's like
 
 Check us out on <a href="https://twitter.com/theitxp">Twitter! @TheITXP </a>
 
-Add us to your favorite podcast player!  <a href='http://feeds.soundcloud.com/users/soundcloud:users:134569916/sounds.rss'>RSS Feed</a>
+<iframe src="https://gopod.me/embed.php?t=0&p=1330172385" width="100%" height="280px" frameborder="0" scrolling="no"> </iframe>
+
 
 ### Subscribe:<br>
 
-<iframe allowtransparency="true" scrolling="no" frameborder="no" src="https://w.soundcloud.com/icon/?url=http%3A%2F%2Fsoundcloud.com%2Ftheitxp&color=white_orange&size=64" style="width: 64px; height: 64px;"></iframe>
-
 <a href="https://www.stitcher.com/s?fid=69160&refid=stpr"><img src="https://secureimg.stitcher.com/promo.assets/badges/Stitcher_Listen_Badge_Color_Dark_BG.png" width="133" height="34" alt="Listen to Stitcher"></a>
-
-<a href="https://itunes.apple.com/us/podcast/the-it-xp/id1330172385?mt=2&app=podcast" style="display:inline-block;overflow:hidden;background:url(https://linkmaker.itunes.apple.com/en-us/badge-lrg.svg?releaseDate=2018-12-04T00:00:00Z&kind=podcast&bubble=podcasts) no-repeat;width:133px;height:34px;"></a>
-
-<a href='https://playmusic.app.goo.gl/?ibi=com.google.PlayMusic&amp;isi=691797987&amp;ius=googleplaymusic&amp;apn=com.google.android.music&amp;link=https://play.google.com/music/m/Iiutjucfg45ityt25ixfhunqrcm?t%3DThe_IT_XP%26pcampaignid%3DMKT-na-all-co-pr-mu-pod-16' rel='nofollow'><img width='125px' alt='Listen on Google Play Music' src='https://play.google.com/intl/en_us/badges-music/images/badges/en_badge_web_music.png'/></a>
 
 # Episodes
 
