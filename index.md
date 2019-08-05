@@ -20,10 +20,10 @@ We pull back the curtain and expose some of the inner workings of what it's like
 
 Check us out on <a href="https://twitter.com/theitxp">Twitter! @TheITXP </a>
 
+### Subscribe:<br>
+
 <iframe src="https://gopod.me/embed.php?t=0&p=1330172385" width="100%" height="280px" frameborder="0" scrolling="no"> </iframe>
 
-
-### Subscribe:<br>
 
 <a href="https://www.stitcher.com/s?fid=69160&refid=stpr"><img src="https://secureimg.stitcher.com/promo.assets/badges/Stitcher_Listen_Badge_Color_Dark_BG.png" width="133" height="34" alt="Listen to Stitcher"></a>
 
