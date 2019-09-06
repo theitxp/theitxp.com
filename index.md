@@ -31,6 +31,14 @@ Check us out on <a href="https://twitter.com/theitxp">Twitter! @TheITXP </a>
 
 ## Season 5
 
+<a href="http://traffic.libsyn.com/theitxp/Episode_5.18_-_Season_4_Repeat_-_High_Severity_Incidents.mp3">Season 4 Repeat - High Severity Incidents</a>
+
+<a href="http://traffic.libsyn.com/theitxp/Episode_5.17_-_Season_1_Repeat_-_Mentoring.mp3">Season 1 Repeat - Mentoring</a>
+
+<a href="http://traffic.libsyn.com/theitxp/Episode_5.16_-_Season_Repeat_-_Education_and_your_career.mp3">Season 1 Repeat - Education and your career</a>
+
+<a href="http://traffic.libsyn.com/theitxp/Episode_5.15_-_Managing_a_Project_as_a_Tech_Lead.mp3"> Episode 5.15 - Managing a Project as a Tech Lead</a>
+
 <a href="http://traffic.libsyn.com/theitxp/EP5-14-MentalHealth.m4a">Episode 5.14 - Mental Health in IT</a>
 
 <a href="http://traffic.libsyn.com/theitxp/Episode_5.13_-_REV2_Data_Science_Conference_Day_2.mp3"> Episode 5.13 - REV2 Data Science Conference Day 2</a>
