@@ -29,7 +29,13 @@ Check us out on <a href="https://twitter.com/theitxp">Twitter! @TheITXP </a>
 
 # Episodes
 
+## Bonus Episodes
+
+<a href="http://traffic.libsyn.com/theitxp/MMM-AppleEvent09102019.mp3">Apple Fall Event 2019 - New Product Announcements</a>
+
 ## Season 5
+
+<a href="http://traffic.libsyn.com/theitxp/Episode_5.19_-_When_No_One_Declares_a_Disaster.mp3"> Episode 5.19 - When No One Declares a Disaster</a>
 
 <a href="http://traffic.libsyn.com/theitxp/Episode_5.18_-_Season_4_Repeat_-_High_Severity_Incidents.mp3">Season 4 Repeat - High Severity Incidents</a>
 
