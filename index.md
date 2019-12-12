@@ -37,6 +37,8 @@ We are using the Flick App to get closer to our listeners. Join us in the <a hre
 
 ## Season 5
 
+<a href="http://traffic.libsyn.com/theitxp/Episode_5.21_-_My_CISSP_Journey_Part_2.mp3"> Episode 5.21 - My CISSP Journey: Part 2</a>
+
 <a href="http://traffic.libsyn.com/theitxp/Episode05_20-CISSP_PT1.m4a"> Episode 5.20 - My CISSP Journey: Part 1</a>
 
 <a href="http://traffic.libsyn.com/theitxp/Episode_5.19_-_When_No_One_Declares_a_Disaster.mp3"> Episode 5.19 - When No One Declares a Disaster</a>
