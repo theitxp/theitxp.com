@@ -35,6 +35,10 @@ We are using the Flick App to get closer to our listeners. Join us in the <a hre
 
 <a href="http://traffic.libsyn.com/theitxp/MMM-AppleEvent09102019.mp3">Apple Fall Event 2019 - New Product Announcements</a>
 
+## Season 6
+
+<a href="https://traffic.libsyn.com/secure/theitxp/Episode_6.0_-_Welcome_Back.mp3"> Episode 6.0 - Welcome Back!</a>
+
 ## Season 5
 
 <a href="http://traffic.libsyn.com/theitxp/Episode_5.21_-_My_CISSP_Journey_Part_2.mp3"> Episode 5.21 - My CISSP Journey: Part 2</a>
