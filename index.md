@@ -39,6 +39,8 @@ We are using the Flick App to get closer to our listeners. Join us in the <a hre
 
 <a href="https://traffic.libsyn.com/secure/theitxp/Episode_6.0_-_Welcome_Back.mp3"> Episode 6.0 - Welcome Back!</a>
 
+<a href="https://traffic.libsyn.com/secure/theitxp/Episode_6.1_-_Nepotism_and_its_impact.mp3"> Episode 6.1 - Nepotism and its impact</a>
+
 ## Season 5
 
 <a href="http://traffic.libsyn.com/theitxp/Episode_5.21_-_My_CISSP_Journey_Part_2.mp3"> Episode 5.21 - My CISSP Journey: Part 2</a>
