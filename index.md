@@ -35,6 +35,15 @@ Check us out on <a href="https://twitter.com/theitxp">Twitter! @TheITXP </a>
 
 ## Season 6
 
+
+<a href="https://traffic.libsyn.com/secure/theitxp/Episode_6.5_-_Conversations_with_Bob_and_Mike.mp3"> Episode 6.5 - Conversations with Bob and Mike</a>
+
+Episode 6.4 - Continuous Learning Revisited (Pending Re-Recording)
+
+<a href="https://traffic.libsyn.com/secure/theitxp/Episode_6.3_-_Tech_career_paths_revisited_Season_1_Redux.mp3"> Episode 6.3 - Tech Career Paths Revisited (Season 1 Redux)</a>
+
+<a href="https://traffic.libsyn.com/secure/theitxp/Episode_6.2_-_Soft_Skills.mp3"> Episode 6.2 - Soft Skills</a>
+
 <a href="https://traffic.libsyn.com/secure/theitxp/Episode_6.1_-_Nepotism_and_its_impact.mp3"> Episode 6.1 - Nepotism and its impact</a>
 
 <a href="https://traffic.libsyn.com/secure/theitxp/Episode_6.0_-_Welcome_Back.mp3"> Episode 6.0 - Welcome Back!</a>
