@@ -38,7 +38,7 @@ Check us out on <a href="https://twitter.com/theitxp">Twitter! @TheITXP </a>
 
 <a href="https://traffic.libsyn.com/secure/theitxp/Episode_6.5_-_Conversations_with_Bob_and_Mike.mp3"> Episode 6.5 - Conversations with Bob and Mike</a>
 
-Episode 6.4 - Continuous Learning Revisited (Pending Re-Recording)
+<a href="https://traffic.libsyn.com/secure/theitxp/Episode_6.4_-_Keep_on_Learning.mp3"> Episode 6.4 - Continuous Learning Revisited </a>
 
 <a href="https://traffic.libsyn.com/secure/theitxp/Episode_6.3_-_Tech_career_paths_revisited_Season_1_Redux.mp3"> Episode 6.3 - Tech Career Paths Revisited (Season 1 Redux)</a>
 
