@@ -35,6 +35,7 @@ Check us out on <a href="https://twitter.com/theitxp">Twitter! @TheITXP </a>
 
 ## Season 6
 
+<a href="https://traffic.libsyn.com/secure/theitxp/Episode_6.6_-_Season_6_Finale.mp3"> Episode 6.6 - Season 6 Finale</a>
 
 <a href="https://traffic.libsyn.com/secure/theitxp/Episode_6.5_-_Conversations_with_Bob_and_Mike.mp3"> Episode 6.5 - Conversations with Bob and Mike</a>
 
