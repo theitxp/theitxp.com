@@ -33,6 +33,10 @@ Check us out on <a href="https://twitter.com/theitxp">Twitter! @TheITXP </a>
 
 <a href="http://traffic.libsyn.com/theitxp/MMM-AppleEvent09102019.mp3">Apple Fall Event 2019 - New Product Announcements</a>
 
+## Season 7
+
+<a href="https://traffic.libsyn.com/secure/theitxp/Episode7_0_Get_a_Job.mp3"> Epsiode 7.0 - Get a Job</a>
+
 ## Season 6
 
 <a href="https://traffic.libsyn.com/secure/theitxp/Episode_6.6_-_Season_6_Finale.mp3"> Episode 6.6 - Season 6 Finale</a>
