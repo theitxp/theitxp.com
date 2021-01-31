@@ -35,6 +35,8 @@ Check us out on <a href="https://twitter.com/theitxp">Twitter! @TheITXP </a>
 
 ## Season 7
 
+<a href="https://traffic.libsyn.com/secure/theitxp/Episode7.1_-_Jobscan.mp3"> Episode 7.1 - Jobscan</a>
+
 <a href="https://traffic.libsyn.com/secure/theitxp/Episode7_0_Get_a_Job.mp3"> Epsiode 7.0 - Get a Job</a>
 
 ## Season 6
