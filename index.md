@@ -29,10 +29,6 @@ Check us out on <a href="https://twitter.com/theitxp">Twitter! @TheITXP </a>
 
 # Episodes
 
-## Bonus Episodes
-
-<a href="http://traffic.libsyn.com/theitxp/MMM-AppleEvent09102019.mp3">Apple Fall Event 2019 - New Product Announcements</a>
-
 ## Season 7
 
 <a href="https://traffic.libsyn.com/secure/theitxp/episode7_3.mp3">Episode 7.3 - Job Search Update (Cybersec)</a>
