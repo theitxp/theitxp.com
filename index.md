@@ -22,10 +22,17 @@ Check us out on <a href="https://twitter.com/theitxp">Twitter! @TheITXP </a>
 
 ### Subscribe:<br>
 
-<iframe src="https://gopod.me/embed.php?t=1&p=1330172385" width="100%" height="100px" frameborder="0" scrolling="no"> </iframe>
+<div>
+      <a href="https://podcasts.google.com/feed/aHR0cHM6Ly90aGVpdHhwLmxpYnN5bi5jb20vcnNz">
+        <img src="https://www.gstatic.com/podcasts_console/promote/English_EN/EN_Google_Podcasts_Badge.svg" width="150" height="38" alt="Listen on Google Podcasts">
+      </a>
+</div>
 
+<a href="https://podcasts.apple.com/us/podcast/the-it-xp/id1330172385?itsct=podcast_box_badge&amp;itscg=30200" style="display: inline-block; overflow: hidden; border-radius: 13px; width: 250px; height: 83px;"><img src="https://tools.applemediaservices.com/api/badges/listen-on-apple-podcasts/mono-black/en-us?size=250x83&amp;releaseDate=1622109600&h=f82406fdaadca2bcc0d21016f3ebe384" alt="Listen on Apple Podcasts" style="border-radius: 13px; width: 250px; height: 83px;"></a>
 
 <a href="https://www.stitcher.com/s?fid=69160&refid=stpr"><img src="https://secureimg.stitcher.com/promo.assets/badges/Stitcher_Listen_Badge_Color_Dark_BG.png" width="133" height="34" alt="Listen to Stitcher"></a>
+
+Or everywhere you get your podcast!
 
 # Episodes
 
