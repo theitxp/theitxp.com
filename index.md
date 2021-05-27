@@ -35,6 +35,8 @@ Check us out on <a href="https://twitter.com/theitxp">Twitter! @TheITXP </a>
 
 ## Season 7
 
+<a href="https://traffic.libsyn.com/secure/theitxp/episode7_3.mp3">Episode 7.3 - Job Search Update (Cybersec)</a>
+
 <a href="https://traffic.libsyn.com/secure/theitxp/Episode_7.2_-_Interview_With_Dr._Eric_Cole_Cybersec.mp3">Episode 7.2 - Interview with Dr. Eric Cole (Cybersec)</a>
 <p style="margin-left:10%; margin-right:10%;">Eric's new book, <a href="https://www.amazon.com/Cyber-Crisis-Protecting-Business-Threats/dp/1950665836/ref=sr_1_1?dchild=1&keywords=cyber+crisis&qid=1612453608&s=books&sr=1-1" target="_blank"> Cyber Crisis: Protecting Your Business from Real Threats in the Virtual World</a>, will be out in May of 2021. Definitely a book you will want to read and add to your library.
 
