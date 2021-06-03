@@ -38,6 +38,8 @@ Or everywhere you get your podcast!
 
 ## Season 7
 
+<a href="https://traffic.libsyn.com/secure/theitxp/Episode7_4-WGUMBAITMGMT.mp3">Episode 7.4 - WGU MBA IT MGMT</a>
+
 <a href="https://traffic.libsyn.com/secure/theitxp/episode7_3.mp3">Episode 7.3 - Job Search Update</a>
 
 <a href="https://traffic.libsyn.com/secure/theitxp/Episode_7.2_-_Interview_With_Dr._Eric_Cole_Cybersec.mp3">Episode 7.2 - Interview with Dr. Eric Cole (Cybersec)</a>
