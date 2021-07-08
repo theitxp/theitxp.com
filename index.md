@@ -38,6 +38,10 @@ Or everywhere you get your podcast!
 
 ## Season 7
 
+<a href="https://traffic.libsyn.com/secure/theitxp/Episode_7.6_-_WGU_MGT2_and_C202.mp3"> Episode 7.6 - WGU MGT2 and C202</a>
+
+<a href="https://traffic.libsyn.com/secure/theitxp/Episode_7.5_-_WGU_C200_Managing_Orgs.mp3"> Episode 7.5 - WGU C200 - Managing Orgs</a>
+
 <a href="https://traffic.libsyn.com/secure/theitxp/Episode7_4-WGUMBAITMGMT.mp3">Episode 7.4 - WGU MBA IT MGMT</a>
 
 <a href="https://traffic.libsyn.com/secure/theitxp/episode7_3.mp3">Episode 7.3 - Job Search Update</a>
