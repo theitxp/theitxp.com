@@ -38,6 +38,8 @@ Or everywhere you get your podcast!
 
 ## Season 7
 
+<a href="https://traffic.libsyn.com/secure/theitxp/Episode_7.8_-_WGU_C214.mp3"> Episode 7.8 - WGU C214 Financial Management</a>
+
 <a href="https://traffic.libsyn.com/secure/theitxp/Episode_7.7_-_WGU_C213.mp3"> Episode 7.7 - WGU C213</a>
 
 <a href="https://traffic.libsyn.com/secure/theitxp/Episode_7.6_-_WGU_MGT2_and_C202.mp3"> Episode 7.6 - WGU MGT2 and C202</a>
