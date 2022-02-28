@@ -36,6 +36,10 @@ Or everywhere you get your podcast!
 
 # Episodes
 
+## Season 8
+
+<a href="https://traffic.libsyn.com/theitxp/episode_8.0-We_are_on_YouTube.mp3"> Episode 8.0 - We're on YouTube!</a>
+
 ## Season 7
 
 <a href="https://traffic.libsyn.com/secure/theitxp/Episode_7.8_-_WGU_C214.mp3"> Episode 7.8 - WGU C214 Financial Management</a>
