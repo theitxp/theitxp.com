@@ -38,6 +38,10 @@ Or everywhere you get your podcast!
 
 ## Season 8
 
+<a href="https://traffic.libsyn.com/theitxp/episode8.2-Career_Goals.mp3"> Episode 8.2 - Career Goals</a>
+
+<a href="https://traffic.libsyn.com/theitxp/Episode8.1-WGU_MBA_IT_MGMT.mp3"> Episode 8.1 - WGU MBA IT MGMT</a>
+
 <a href="https://traffic.libsyn.com/theitxp/episode_8.0-We_are_on_YouTube.mp3"> Episode 8.0 - We're on YouTube!</a>
 
 ## Season 7
