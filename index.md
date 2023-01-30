@@ -36,7 +36,7 @@ Or everywhere you get your podcast!
 
 # Episodes
 
-##Season 9
+## Season 9
 
 <a href="https://traffic.libsyn.com/theitxp/episode9-0.mp3"> Episode 9.0 - IT Trends To Watch In 2023</a>
 
