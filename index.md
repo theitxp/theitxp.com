@@ -36,7 +36,16 @@ Or everywhere you get your podcast!
 
 # Episodes
 
+##Season 9
+
+<a href="https://traffic.libsyn.com/theitxp/episode9-0.mp3"> Episode 9.0 - IT Trends To Watch In 2023</a>
+
+
 ## Season 8
+
+<a href="https://traffic.libsyn.com/theitxp/episode8.4-The_End_of_IT_and_The_Rise_of_AI.mp3"> Episode 8.4 - The End of IT and the Rise of A.I.</a>
+
+<a href="https://traffic.libsyn.com/theitxp/Episode_8.3_-_Im_BECOMING_A_GAMER.mp3"> Episode 8.3 - I'm Becoming a Gamer!?!</a>
 
 <a href="https://traffic.libsyn.com/theitxp/episode8.2-Career_Goals.mp3"> Episode 8.2 - Career Goals</a>
 
