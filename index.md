@@ -18,7 +18,13 @@ of Information Technology, then this show is for you.
 
 We pull back the curtain and expose some of the inner workings of what it's like to work in Information Technology.
 
-Check us out on <a href="https://twitter.com/theitxp">Twitter! @TheITXP </a>
+Check us out on <a href="https://www.tiktok.com/@the.it.xp">TikTok! @The.IT.XP </a>
+
+We are also on the following video platforms:
+
+<a href="https://www.youtube.com/@theitxp">YouTube</a>
+<a href="https://rumble.com/user/theitxp">Rumble</a>
+
 
 ### Subscribe:<br>
 
