@@ -23,6 +23,7 @@ Check us out on <a href="https://www.tiktok.com/@the.it.xp">TikTok! @The.IT.XP <
 We are also on the following video platforms:
 
 <a href="https://www.youtube.com/@theitxp">YouTube</a>
+
 <a href="https://rumble.com/user/theitxp">Rumble</a>
 
 
