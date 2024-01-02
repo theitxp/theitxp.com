@@ -43,7 +43,14 @@ Or everywhere you get your podcast!
 
 # Episodes
 
+##Season 10
+<a hreg="https://theitxp.libsyn.com/get-smart-get-it-done-level-up-your-career-in-2024-with-playful-purpose"> Episode 10.1 - Get SMART, Get IT Done: Level Up Your Career in 2024 with Playful Purpose</a>
+
 ## Season 9
+
+<a href="https://theitxp.libsyn.com/episode-93-uefn-editing-session-pt-3-assets"> Episode 9.3 - UEFN Editing Session Part 3: Assets</a>
+
+<a href="https://theitxp.libsyn.com/episode-92-uefn-editing-session-part-2-landscapes"> Episode 9.2 - UEFN Editing Session Part 2: Landscapes</a>
 
 <a href="https://traffic.libsyn.com/theitxp/episode9-1.mp3"> Episode 9.1 - Unreal Editor for Fortnite (UEFN) Released!</a>
 
