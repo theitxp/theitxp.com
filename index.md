@@ -41,6 +41,10 @@ We are also on the following video platforms:
 
 Or everywhere you get your podcast!
 
+##Certifications:
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="563e63cc-4c0e-440a-8854-5ce203844260" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 # Episodes
 
 ##Season 10
