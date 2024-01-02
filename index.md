@@ -44,6 +44,7 @@ Or everywhere you get your podcast!
 # Episodes
 
 ##Season 10
+
 <a href="https://theitxp.libsyn.com/get-smart-get-it-done-level-up-your-career-in-2024-with-playful-purpose"> Episode 10.1 - Get SMART, Get IT Done: Level Up Your Career in 2024 with Playful Purpose</a>
 
 ## Season 9
