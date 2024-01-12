@@ -41,13 +41,13 @@ We are also on the following video platforms:
 
 Or everywhere you get your podcast!
 
-##Certifications:
+## Certifications:
 
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="563e63cc-4c0e-440a-8854-5ce203844260" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script> <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="6c684c91-919f-40e5-b392-c7622a822739" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 # Episodes
 
-##Season 10
+## Season 10
 
 <a href="https://theitxp.libsyn.com/get-smart-get-it-done-level-up-your-career-in-2024-with-playful-purpose"> Episode 10.1 - Get SMART, Get IT Done: Level Up Your Career in 2024 with Playful Purpose</a>
 
