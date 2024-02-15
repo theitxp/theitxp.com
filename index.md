@@ -49,6 +49,10 @@ Or everywhere you get your podcast!
 
 ## Season 10
 
+<a href="https://rumble.com/v4dfz70-your-multi-cloud-learning-journey.html?mref=1wyjcc&mc=bbcjz"> Episode 10.3 - Your Multi-Cloud Learning Journey</a>
+
+<a href="https://rumble.com/v4aq0jx-overemployed-hell-i-was-just-let-go-wtf.html?mref=1wyjcc&mc=bbcjz"> Episode 10.2 - Overemployed? Hell, I was just let go! WTF?!?!</a>
+
 <a href="https://rumble.com/v49mw4c-been-laid-off-twice-join-the-club-but-lets-not-stay-there.html"> Episode 10.1 - Been laid off? TWICE? Join the club (but let's not stay there!)</a>
 
 <a href="https://theitxp.libsyn.com/get-smart-get-it-done-level-up-your-career-in-2024-with-playful-purpose"> Episode 10.0 - Get SMART, Get IT Done: Level Up Your Career in 2024 with Playful Purpose</a>
