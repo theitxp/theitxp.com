@@ -49,6 +49,10 @@ Or everywhere you get your podcast!
 
 ## Season 10
 
+<a href="https://rumble.com/v4nm55o-mastering-my-wgu-management-and-leadership-masters-in-6-months.html"> Episode 10.5 - Mastering My WGU Management & Leadership Master’s in 6 Months!</a>
+
+<a href="https://rumble.com/v4e83d6-multi-cloud-learning-paid-platforms.html"> Episode 10.4 - Multi-Cloud Learning: Paid Platforms</a>
+
 <a href="https://rumble.com/v4dfz70-your-multi-cloud-learning-journey.html?mref=1wyjcc&mc=bbcjz"> Episode 10.3 - Your Multi-Cloud Learning Journey</a>
 
 <a href="https://rumble.com/v4aq0jx-overemployed-hell-i-was-just-let-go-wtf.html?mref=1wyjcc&mc=bbcjz"> Episode 10.2 - Overemployed? Hell, I was just let go! WTF?!?!</a>
