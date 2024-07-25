@@ -49,6 +49,8 @@ Or everywhere you get your podcast!
 
 ## Season 10
 
+<a href="https://traffic.libsyn.com/theitxp/episode10_6.mp3"> Episode 10.6 - Fail.con 2024</a>
+
 <a href="https://rumble.com/v4nm55o-mastering-my-wgu-management-and-leadership-masters-in-6-months.html"> Episode 10.5 - Mastering My WGU Management & Leadership Master’s in 6 Months!</a>
 
 <a href="https://rumble.com/v4e83d6-multi-cloud-learning-paid-platforms.html"> Episode 10.4 - Multi-Cloud Learning: Paid Platforms</a>
